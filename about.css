@@ -36,8 +36,8 @@ body {
 }
 
 .links {
+   font-family:'Univers LT Std 65';;
    font-size: 12pt; 
-   font-weight: 600;
    text-align: right;
    padding-top: 36px;
    padding-right: 15px;
