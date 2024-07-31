@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>LEWIS LENOBLE DESIGN</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Illustrator, Graphic Designer, and Comic Book Artist">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <link href="./about.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.typekit.net/bub1etn.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+
+
+
+    
+
+</head>
+
+<body>
+    <script src='ABOUT.js'></script>
+
+
+   
+<div class="dagger">
+
+    <div class="daggergrid">
+
+         <div class="links">
+            <a href="#">about</a> <br/>
+            <a href="#">contact</a>
+         </div>
+
+         <div class="doubledagger"> 
+            ‡
+         </div>
+        
+    </div>
+
+</div><!--END DAGGER-->
+
+<div class="topban"></div>
+
+    <div class="bancase"> 
+        <div class="ban">About</div>
+    </div>
+
+
+<div class="content">
+         
+    <div class="contentgrid">
+        
+        <div class="col"> 
+           <div class="text"> Prolific multidisciplinary designer with a focus on publication design, poster design, typography, and image-making.</div> 
+           <div class="block"></div>
+           <div class="block"></div>
+
+        </div>
+
+        <div class="col"> 
+
+        </div> 
+
+        
+    </div>
+
+</div>
+
+
+
+
+
+
+</body>
+
+</html>
+
+    
