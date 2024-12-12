@@ -22,7 +22,6 @@ body {
 
 /* DAGGER */ 
 
-
 .daggergrid {
     display:grid;
     grid-template-columns:auto auto;
@@ -36,11 +35,11 @@ body {
 }
 
 .links {
-   font-size: 12pt; 
-   font-weight: 600;
-   text-align: right;
-   padding-top: 36px;
-   padding-right: 15px;
+    font-family:'Univers LT Std 65';
+    font-size: 12pt; 
+    text-align: right;
+    padding-top: 36px;
+    padding-right: 15px;
 }
 
 .links a{
@@ -53,11 +52,10 @@ body {
 
 .doubledagger {
     font-size: 100px;
-    font-weight: 600;
+    font-weight: 700;
     cursor:pointer;
     color: #0f0f0f;
 }
-
 
 /*TOPBAN*/
 
