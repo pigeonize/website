@@ -206,25 +206,9 @@ body {
     justify-content: center;
 }
 
+
+
 .contentgrid {
-    display: grid;
-    grid-template-columns: 32vw 64vw;
-    height: auto;
-}
-
-.contentgrid2 {
-    display: grid;
-    grid-template-columns:32vw 32vw 32vw;
-    height: auto;
-}
-
-.contentgrid3 {
-    display: grid;
-    grid-template-columns: 64vw 32vw;
-    height: auto;
-}
-
-.contentgrid4 {
     display: grid;
     grid-template-columns: 24vw 24vw 24vw 24vw;
     height: auto;
