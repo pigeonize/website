@@ -104,22 +104,29 @@ a { text-decoration: none;
     height: auto;
 }
 
+
 .contentgrid {
     display: grid;
-    grid-template-columns:64vw 32vw;
+    grid-template-columns:48vw 48vw;
     padding: 20px;
-}
 
-.contentgrid2 {
-    display: grid;
-    grid-template-columns:48vw 24vw 24vw;
-    padding: 20px;
 }
 
 .col {
     margin: 15px;
     padding: 15px;
     
+}
+
+.colphot {
+    margin: 15px;
+    padding: 15px;
+}
+
+.photogrid {
+    display: grid;
+    grid-template-columns: 24vw 24vw;
+    padding: 20px;
 }
 
 .block {
@@ -137,17 +144,6 @@ a { text-decoration: none;
 }
 
 
-.item {
-    margin-bottom: 20px;
-    width: 100%;
-    /*box-shadow: 3px 3px 4px #aaaaaa;*/
-    display: flex;
-    position: relative;
-    justify-content: center;
-    align-items: center;
-    z-index: 994;
-    box-shadow: 3px 3px 15px lightgrey;
-}
 
 .img {
     position: relative; 
@@ -156,28 +152,6 @@ a { text-decoration: none;
 
 }
 
-.dsc {
-    text-align: center;
-    visibility:hidden;
-    position: absolute;
-    z-index: 996;
-    font-weight: 600;
-    color: #fffffa;
-    background-color: #0f0f0f;
-    padding:3px 17px;
-    margin: 60px;
-    rotate: 3deg;
-}
-
-.bg {
-    position: absolute;
-    width: 100%;
-    height:100%;
-    z-index: 995;
-    background-color: #fffffa;
-    visibility: hidden;
-    opacity: 0%;
-}
 
 .text {
     font-family: 'Univers LT Std 65';
@@ -186,24 +160,39 @@ a { text-decoration: none;
     font-size: 11pt;
 }
 
-.item:hover {
-    transition-duration: 1s;
+
+
+/* MEDIA */
+
+
+
+@media (max-width:1000px){
+
+    .photogrid {
+       display: block;    
+    }
+       
+    .block{
+        display: none;    }
+
+    .block2{
+        display: none;
+    }
+
+    .colphot {
+        margin: 0;
+        padding: 0;
+
+    }
 }
 
-.item:hover .bg{
-    visibility: visible;
-    opacity: 0%;
-    transition-property: visibility, opacity;
-    transition-duration:1s;
 
-}
 
-.item:hover .dsc {
-    visibility: visible;
-    opacity: 100%;
-    transition-property: visibility;
-    transition-duration: 1s;
 
-    
-
+@media (max-width:550px){
+    .contentgrid {
+        display: block;
+    }
+  
+   
 }
