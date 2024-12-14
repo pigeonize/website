@@ -148,3 +148,19 @@ body {
     color: #0f0f0f;
     
 }
+
+
+@media (max-width:1000px){
+
+
+}
+
+
+
+
+@media (max-width:550px){
+
+    .contentgrid2 {
+    display:none;
+} 
+   
