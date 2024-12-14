@@ -318,8 +318,45 @@ body {
 
 
 /* MEDIA 800)X */
+/* MEDIA */
 
-@media (max-width:800px){
-   
+
+
+@media (max-width:1000px){
+
+
+    .contentgrid {
+        display: grid;
+        grid-template-columns:50vw 50vw;
+        height: auto;
     }
 
+    #titleimg {
+        width: 60vw;
+    }
+
+    .taglineimg{
+        width: 30vw;    
+    }
+}
+
+
+
+
+@media (max-width:550px){
+
+    .contentgrid {
+        display:block;
+        height: auto;
+    }
+
+    #titleimg {
+        width: 80vw;
+    }
+
+    .taglineimg{
+        width: 40vw;    
+    }
+
+   
+}
