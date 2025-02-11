@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>LEWIS LENOBLE DESIGN</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Illustrator, Graphic Designer, and Comic Book Artist">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+   
+    
+    <link href="/projects.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://use.typekit.net/bub1etn.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
+
+
+
+    
+
+</head>
+
+<body>
+    <script src='index.js'></script>
+
+
+   
+    <div class="dagger">
+
+        <div class="daggergrid">
+    
+             <div class="links">
+                <a href="https://lewislenoble.com">home</a> <br/>
+                <a href="https://lewislenoble.com/contact">contact</a>
+             </div>
+    
+             <div class="doubledagger"> 
+                ‡
+             </div>
+            
+        </div>
+    
+    </div><!--END DAGGER-->
+    
+    <div class="topban"></div>
+    
+        <div class="bancase"> 
+            <div class="ban">Selected Projects</div>
+        </div>
+    
+    
+     <!--CONTENT-->
+
+    <div class="content">
+
+        <!--MORGAN-->
+
+        <div id="score">
+            <div class="cap">Edwin Morgan</div>
+        </div>
+             
+        <div class="contentgrid5">
+         
+            
+            <div class="morgantxt"> 
+
+               <div class="text"> 
+                <p>Commissioned by two local folk musicians for a popular weekly open mic night, this poster celebrates wood type’s role as a signifier of Americana, as well as the simple beauty of turn-of-the-century paper ephemera. Some letters are decorated by hand with details inspired by mid-century westernwear. All rules, typographical decorations, and type were letterpress-printed from the GSA Caseroom's wood type collection, or else gleaned from historical specimens or digitised wood typefaces and adapted for purpose; some were even hand-drawn for the occasion.
+                </p>
+                </div> 
+             
+            </div>
+
+            <div class="morgan1">
+
+                <img class="img" src="" width="100%">
+            
+            </div>
+
+
+            <div class="morgan2"> 
+                
+                <img class="img" src="https://64.media.tumblr.com/3d4c5f4ec5bd5b73ee38bd97685bce76/94b2a38e6c17ea1f-6f/s2048x3072/e2c6fd7e497b73ed6b6f8ec8ea7a21b9052fa5ab.png" width="100%">
+            
+            </div> 
+
+            <div class="morgan3"> 
+                
+                <img class="img" src="https://64.media.tumblr.com/9a4d5943c606d94fe19d05e1c24989a7/94b2a38e6c17ea1f-74/s2048x3072/04032ab06d82e40ca9b535c3a08a764e26768c6a.png" width="100%">   
+            
+            </div> 
+
+            <div class="morgan4"> 
+                
+                <img class="img" src="https://64.media.tumblr.com/9a4d5943c606d94fe19d05e1c24989a7/94b2a38e6c17ea1f-74/s2048x3072/04032ab06d82e40ca9b535c3a08a764e26768c6a.png" width="100%">   
+            
+            </div> 
+    
+        </div>
+        
+        <!--END MORGAN-->
+
+
+        <!--IN TIME OF WAR-->
+
+        <div id="war">
+            <div class="cap">In Time Of War</div>
+        </div>
+
+        <div class="contentgrid1">
+         
+            
+            <div class="wartxt"> 
+
+               <div class="text"> 
+                <p><i>“We live here. We lie in the Present's unopened <br/>Sorrow; its limits are what we are.  <br/>The prisoner ought never to pardon his cell.  <br/> Can future ages ever escape so far,  <br/>Yet feel derived from everything that happened,  <br/> Even from us, that even this was well?" </i></p>
+                <p>This typographic installation  is based on an excerpt from W.H. Auden's long poem on the history of humanity and its relationship to war and violence, <i>In Time of War</i>. This particular verse deals with the human condition's shackling to the present time. The combination of 2D and 3D letters creates a physical space which encourages the viewer to visualise and conceptualise the present moment and its fleeting nature. This installation marries the communicative power of typography with the visual and ___ impact of the sculptural form, taking inspiration from the public art movement and letterpress designers such as Anthony Burrill.</p> <p>The typeface was custom-designed as a cross between iconic advertising font Franklin Gothic and an undigitised, incomplete wood type from GSA’s extensive Caseroom collection, marrying Auden’s American penchants with his Britishness and adding subtle quirks to known and efficient base. </p>
+                <p>This piece was displayed centrally at the 2024 Glasgow School of Art Degree Show and was very successful among faculty, board members, and attendants alike. Images of the installation are currently used in the internal and external communications of the school. <i>Photos <a href="https://www.flickr.com/photos/glasgowschoolart/albums/72177720319051110/page2"> © Alan McAteer.</a></i></p>
+            
+                </div> 
+             
+            </div>
+
+            <div class="warimg1">
+
+                <img class="img" src="https://live.staticflickr.com/65535/53781766968_da8856348a_k.jpg" width="100%">
+            
+            </div>
+
+            <div class="warimg2">
+
+                <img class="img" src="https://live.staticflickr.com/65535/53780618267_680f562c1b_k.jpg" width="100%">
+         
+            </div> 
+
+            <div class="warimg3">
+
+                <img class="img" src="https://live.staticflickr.com/65535/53781553006_3dea9822ab_k.jpg" width="100%">
+         
+            </div> 
+    
+        </div> 
+        
+        <!-- END IN TIME OF WAR-->
+
+
+
+
+        <!--EVERYONE IS KEEPING SCORE-->
+
+        <div id="score">
+            <div class="cap">Everyone Is Keeping Score</div>
+
+        </div>
+    
+             
+        <div class="contentgrid">
+         
+            
+            <div class="col"> 
+
+               <div class="text"> 
+                <p>Everyone Is Keeping Score is a publication which marries modernist design aesthetics and principles with literary and philosophical approaches to the game of baseball, taken from the works of writers and scholars such as A. Bartlett Giamatti, Paul Goldberger, and Alva Noë. It seeks to highlight the surprising idiosyncracies of the game by communicating them through a sophisticated visual language, using the contrast to strip expectations and preconceptions from the viewer. The volume is hand-sewn and bound, with a Swiss case, a dye-cut cover, double endpapers, and a foldover spread.                     </p>
+
+                <p>It spent the fall of 2024 on display at the Glasgow School of Art Library, before taking a journey up to the GSA Highlands and Islands campus in Forres for exhibition in the winter. </p>
+            
+                </div> 
+             
+            </div>
+
+            <div class="col1">
+
+                <img class="img" src="https://64.media.tumblr.com/3705519e2d43121a41cda890bd29fddc/cb96efbfa0f6087c-a8/s2048x3072/5ed8ade80c91dd147f5645fcd451eaa2446561fb.png" width="100%">
+
+            </div>
+
+            <div class="col1"> 
+                
+                <img class="img" src="https://64.media.tumblr.com/aefa8027d58447cd4486966fe43615de/cb96efbfa0f6087c-ed/s2048x3072/3486e8cd8bef88fa54a803de067d1930ad22f1a8.png" width="100%">
+            
+            </div> 
+    
+        </div>
+
+        <div class="contentgrid4">
+            
+            <div class="col4"> 
+
+                <img class="img" src="https://64.media.tumblr.com/ac392981670b9b9b398f7fd2f64f57da/cb96efbfa0f6087c-86/s2048x3072/ec7234549f55bb2a9bbacfe7ebbdf437178906cf.png" width="100%">
+
+            </div>
+
+            <div class="col4"> 
+
+                <img class="img" src="https://64.media.tumblr.com/1fbd22f8e313ff8ae6867e1118d50deb/cb96efbfa0f6087c-92/s2048x3072/36dd50165518acf7ef8f481e7d3bc7912c8ce1b2.png" width="100%">
+
+            </div>
+            
+            <div class="col4"> 
+
+                <img class="img" src="https://64.media.tumblr.com/98020418d6640d817d5afe1a83dfebfc/cb96efbfa0f6087c-9d/s2048x3072/c9effa5ddd3ca90e5c7a4f631f08863455e6a489.png" width="100%">
+
+            </div>
+            
+            <div class="col4"> 
+
+                <img class="img" src="https://64.media.tumblr.com/8c1a56f1f27df046651e481253307e93/cb96efbfa0f6087c-de/s2048x3072/8c192fe96aedc7614a54223d9710d1386185e532.png" width="100%">
+
+            </div>
+
+
+        </div>
+
+        
+        <!--END EVERYONE IS KEEPING SCORE-->
+
+
+
+
+        
+        <!--BIOGRAPHIE-->
+
+        <div id="book">
+            <div class="cap">Biographie De Nos Parents</div>
+        </div>
+
+        <div class="contentgrid">
+         
+            
+            <div class="col"> 
+
+               <div class="text"> 
+                <p>This hand-bound book is a redesign of my grandfather's biography of his parents, from their wedding to his birth. Provided with an exceptional collection of photographs and information gleaned from letters, accounting books, and personal memories, I designed a template that would allow to let the different media flow appropriately, while being easy to hold and read by elderly readers.</p> <p>Special thought was put into the type choice and typographic details, so as to evoke the time period of the subject but also the modernity of the research endeavour. A major inspiration was the work of master book designer Jost Hochuli, and the project was partly a way to study his practice in comparison with otherschools of book design.</p> 
+                </p>
+                </div> 
+             
+            </div>
+
+            <div class="col1">
+
+                <img class="img" src="https://64.media.tumblr.com/2ab348430500617ea0aa5b49ad06bd20/cbca7e414abab4b6-29/s2048x3072/5f0a5400300847013f36c218aff3880189109ee0.png" width="100%">
+                <img class="img" src="https://64.media.tumblr.com/a08af35cbdb82924ad7f92d2906eb92c/cbca7e414abab4b6-f1/s2048x3072/88909731794bf412706bb6850ab8417b69d57ee2.png" width="100%">
+                <img class="img" src="https://64.media.tumblr.com/e97c5edbbfb4afa799a8099e6daffa20/cbca7e414abab4b6-59/s2048x3072/3ac5a5c2f647ea01a54dafa43e7a5dbe44842f74.png" width="100%">
+         
+            </div>
+
+
+            <div class="col1"> 
+                
+                <img class="img" src="https://64.media.tumblr.com/78799fd04126c4ce2eaffb1d922db805/cbca7e414abab4b6-78/s2048x3072/35091d13dbc8b5969c934cce1f93a767ec7f5497.png" width="100%">
+                <img class="img" src="https://64.media.tumblr.com/df00dbd5c65cbb7f8d901dff01d42d43/cbca7e414abab4b6-6e/s2048x3072/58f1b713a83008051961ccc9f8ff45dbbfd73a12.png" width="100%">
+                <img class="img" src="https://64.media.tumblr.com/4992d6a1b282d3409972c180123b20ad/cbca7e414abab4b6-0c/s2048x3072/9eee5c0d943d8e28bd97e46a6aa3149c013ca211.png" width="100%">
+   
+            
+            </div> 
+    
+        </div> 
+        
+        <!-- END BIOGRAPHIE-->
+
+
+        <!--ONCE UPON A TIME-->
+
+        <div id="south">
+            <div class="cap">Once Upon a Time in the South</div>
+        </div>
+
+        <div class="contentgrid">
+         
+            
+            <div class="col"> 
+
+               <div class="text"> 
+                <p>Commissioned by two local folk musicians for a popular weekly open mic night, this poster celebrates wood type’s role as a signifier of Americana, as well as the simple beauty of turn-of-the-century paper ephemera. Some letters are decorated by hand with details inspired by mid-century westernwear. All rules, typographical decorations, and type were letterpress-printed from the GSA Caseroom's wood type collection, or else gleaned from historical specimens or digitised wood typefaces and adapted for purpose; some were even hand-drawn for the occasion.
+                </p> 
+                
+                </div> 
+             
+            </div>
+
+            <div class="col1">
+                <img class="img" src="https://64.media.tumblr.com/8be79b993ac008901a2b440e3748f29f/2d54db0ac09d5c41-78/s2048x3072/c1c37793fcb075ccf03f79de7fc91e6c9ccc4a6b.png" width="100%">
+
+            </div>
+
+            <div class="col1">
+                <img class="img" src="https://64.media.tumblr.com/40334d9257f2d6516469fee1f5f1eb7d/5f759fceebeed727-e7/s2048x3072/1767cb7e2c327f6989189bbe8b80a8035d3ab1fd.png" width="100%">
+
+            </div>
+
+
+    
+        </div> 
+        
+        <!-- END ONCE UPON A TIME-->
+
+
+
+        <!--DAISY JONES-->
+
+        <div id="daisy">
+            <div class="cap">Penguin Book Cover Design Competition</div>
+        </div>
+
+        <div class="contentgrid2">
+         
+            
+            <div class="col"> 
+
+               <div class="text"> 
+                <p>This shortlisted submission for the 2024 Penguin Book Cover Design Award uses an actual, original ticket designs for the period of the novel's events to communicate main cover information, mixed in with elements from the narrative while maintaining a clear hierarchy. The torn ticket sets up the inciting event of the titular band's breakup, and on the back cover, fake newspaper clippings allude to the themes of fame, gossip and exposure in the book. The earthy orange colour, a 70’s staple, attracts the eye. Purposeful imperfections in the typesetting and period accurate fonts ensure an authentic, trade-printing feel.</p>
+                
+                </div> 
+             
+            </div>
+
+
+            <div class="col1"> 
+                
+                <img class="img" src="https://64.media.tumblr.com/7c11ec1828de638e321af34755212b4a/138b8faac5cc22bb-e4/s2048x3072/d3c5843726584d4f63f9d610f7c18b9b0de0eeb4.png" width="100%">
+            
+            </div> 
+    
+        </div> 
+        
+        <!-- END DAISY JONES-->
+
+
+        <!--SORRY-->
+
+        <div id="sorry">
+            <div class="cap">SORRY</div>
+        </div>
+
+        <div class="contentgrid2">
+         
+            
+            <div class="col"> 
+
+               <div class="text"> 
+                <p>Originally constructed with thirty A3 sheets of paper, this giant apology was a huge success in the most travelled hallway of the School of Design, taking on a life of its own. With the subject and object of the apology left up to interpretation, the mural could become personal to the viewer. It could invoke the enormity of transgression. The scale almost forced interaction. Later in the year, SORRY was turned into a projection, with the final iteration being set onto the protective husk of the famously burnt-out Mackintosh building, adding a new layer of meaning to the work.</p>
+                
+                </div> 
+             
+            </div>
+
+
+            <div class="col1"> 
+                
+                <img class="img" src="https://64.media.tumblr.com/88a3e6c62363210f48eb8979c48dadcb/2d54db0ac09d5c41-06/s1280x1920/6f389405d5612c304179af1d8836d0185e71b740.png" width="100%">
+                   
+            
+            </div> 
+    
+        </div> 
+        
+        <!-- END SORRY-->
+        
+
+
+    </div> <!-- END CONTENT-->
+
+
+</body>
+
+</html>
+
+    
