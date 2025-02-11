@@ -84,8 +84,7 @@ body {
     overflow: hidden;
     justify-content: top;
     align-items: center;
-    translate: 0 -3vh;
-}
+    translate: 0 -3vh;}
 
 .titlegrid{
     display: grid;
@@ -207,7 +206,6 @@ body {
 }
 
 
-
 .contentgrid {
     display: grid;
     grid-template-columns: 24vw 24vw 24vw 24vw;
@@ -298,10 +296,6 @@ body {
 
 
 
-/* SPECIAL ITEMS*/
-
-
-/* MEDIA 800)X */
 /* MEDIA */
 
 
@@ -344,3 +338,4 @@ body {
 
    
 }
+
