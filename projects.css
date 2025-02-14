@@ -130,10 +130,9 @@ a { text-decoration: none;
 
 .contentgrid3 {
     display: grid;
-    grid-template-columns:49vw 15.5vw 15.5vw 15.5vw;
+    grid-template-columns:23.5vw 23.5vw 49vw;
     padding:  0px 27px 0px;
     grid-column-gap: 0px;
-
 }
 
 .contentgrid4 {
@@ -143,6 +142,12 @@ a { text-decoration: none;
 }
 
 .contentgrid5 {
+    display: grid;
+    grid-template-columns:48vw 51vw;
+    padding: 0px 27px 20px;
+}
+
+.contentgrid-morgan {
     display: grid;
     grid-template-columns:3fr 1fr 1fr 1fr;
     grid-template-rows:50% 50%;
@@ -216,29 +221,29 @@ a { text-decoration: none;
 .morgan1 {
     margin: 0px 15px 0px;
     padding: 0px 15px 15px;
-    grid-column: 2/5;
+    grid-column: 2/4;
     grid-row: 1;
 }
 
 .morgan2 {
-    margin: 0px 0px 15px 15px;
-    padding: 0px 15px 15px;
+    margin: 0px 0px 10px 15px;
+    padding: 0px 15px 0px;
     grid-column: 2;
     grid-row: 2;
     height:fit-content;
 }
 
 .morgan3 {
-    margin: 0px 15px 15px 0px;
-    padding: 0px 15px 15px;
+    margin: 0px 15px 10px 0px;
+    padding: 0px 15px 0px;
     grid-column: 3;
     grid-row: 2;
     height:fit-content;
 }
 
 .morgan4 {
-    margin: 0px 15px 15px 0px;
-    padding: 0px 15px 15px;
+    margin: 0px 15px 10px 0px;
+    padding: 0px 15px 0px;
     grid-column: 4;
     grid-row: 2;
     height:fit-content;
@@ -277,10 +282,10 @@ a { text-decoration: none;
     font-weight: 600;
     font-size: 11pt;
     color: #0f0f0f;
+    /*background-color: #fffffa;*/
     border: 1px solid #0f0f0f;
     padding:3px 17px;
     margin-top: 20px;
-
 }
 
 .cap a{
