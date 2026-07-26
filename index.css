@@ -1,4 +1,4 @@
-body {
+   body {
     height:100%;
     width: 100%;
     margin:0;
@@ -237,6 +237,7 @@ body {
     align-items: center;
     z-index: 994;
     /*box-shadow: 3px 3px 15px lightgrey;*/
+    
 }
 
 .itemgroup {
@@ -248,12 +249,18 @@ body {
     align-items: center;
     z-index: 994;
    /* box-shadow: 3px 3px 15px lightgrey;*/
+   
 
 }
 
-.img {
-    position: relative; 
+.itemcar {
+    margin-bottom: 60px;
+    justify-content: center;
+    align-items: center;
+    z-index: 994;
+    /*box-shadow: 3px 3px 15px lightgrey;*/
 }
+
 
 .dsc {
     text-align: center;
@@ -296,10 +303,34 @@ body {
 
 /*SLIDESHOW*/
 
-.slide {
-    position: relative
+#bio, #morgan, #swing, #cover, #enfer, #aragon, #zinta {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    min-width: 0;
     
 }
+
+#bio .track, #morgan .track, #swing .track, #cover .track, #enfer .track, #aragon .track, #zinta .track {
+    display:flex;
+
+}
+
+#bio .slide, #morgan .slide, #swing .slide, #cover .slide, #enfer .slide, #aragon .slide, #zinta .slide {
+    min-width: 100%;
+    max-width: 100%;
+
+
+}
+
+#bio .slide img, #morgan .slide img, #war .slide img, #cover .slide img, #enfer .slide img, #aragon .slide img, #zinta .slide img {
+    max-width: 100%;
+    object-fit: contain;
+
+}
+
+
 
 
 /* MEDIA */
@@ -344,4 +375,3 @@ body {
 
    
 }
-
